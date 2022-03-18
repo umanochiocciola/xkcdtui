@@ -10,7 +10,7 @@ it'll get you sorted!
 ```
 xkcd [num/'r']
 ```
-with no arguments, will run a selection menu
+with no arguments, will run a selection menu<br>
 if an number is passed, xkcd will display the numth comic in the archive list (descending cronological order)<br>
 if 'r' is passed, xkcd will display a random comic
 
