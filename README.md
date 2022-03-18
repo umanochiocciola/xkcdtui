@@ -3,7 +3,7 @@ a Terminal User Interface tool to enjoy XKCD comics from your comfy terminal
 
 ## Installation
 just run 
-```/install.sh```
+```./install.sh```
 it'll get you sorted!
 
 ## Usage
