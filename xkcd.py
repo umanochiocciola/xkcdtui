@@ -10,7 +10,7 @@ IMAGE_VIEWER = "feh" # change to any image viewer that accepts url inputs such a
 
 
 def main():
-	try: preselected = argv[1]
+	try: preselected = int(argv[1])
 	except: preselected = ''
 
 	comics   = getComics()
