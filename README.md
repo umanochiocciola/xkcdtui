@@ -15,5 +15,5 @@ if an number is passed, xkcd will display the numth comic in the archive list (d
 if 'r' is passed, xkcd will display a random comic
 
 ## Requiremets
-python 3.8+
+python 3.8+<br>
 An image viewer that supports url arguments. Default is ```feh```. Edit xkcd.py before installing to change IMAGE_VIEWER to your preferred one.
